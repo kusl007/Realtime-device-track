@@ -20,10 +20,6 @@ This project is a real-time map application built using **Socket.IO** for real-t
    ```bash
    npm install
    ```
-2. **Install dependencies**:
-   ```bash
-   npm install
-   ```
 3. **Start the server**:
    ```bash
    npm start
