@@ -15,7 +15,7 @@ This project is a real-time map application built using **Socket.IO** for real-t
 - **Backend**: Node.js, Express, Socket.IO
 
 ## Installation
-0.steps:
+
 
 1. **Clone the repository**:
    ```bash
