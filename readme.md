@@ -16,9 +16,9 @@ This project is a real-time map application built using **Socket.IO** for real-t
 
 ## Installation
 
-1. **Clone the repository**:
+2. **Install dependencies**:
    ```bash
-   git clone https://github.com/kusl007/Realtime-device-track.git
+   npm install
    ```
 2. **Install dependencies**:
    ```bash
